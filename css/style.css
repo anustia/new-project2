@@ -1,0 +1,97 @@
+.all{
+	background-color: #0D192C;
+	 display: flex;
+  justify-content: center;
+  align-items: center;
+	
+}
+.container{
+	width: 327px;
+	height: 543px;
+	background-color:#15263F;
+	border-radius: 15px;
+	margin-top: 30px;
+
+
+}
+.banner{
+	height: 278px;
+	weight: 278px;
+	border-radius: 8px;
+	padding-right: 25px;
+	padding-left: 24px;
+	padding-top: 24px;
+
+}
+.title{
+	margin-top: 24px;
+	margin-bottom: 12px;
+	padding-right: 25px;
+	padding-left: 24px;
+}
+.title1{
+  color: #FFFFFF;
+  font-size: 22px;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Outfit', sans-serif;
+}
+.text{
+	width: 278px;
+	height: 52px;
+	color:#8BACD9;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+   font-family: 'Outfit', sans-serif;
+}
+.box1{
+	float: left;
+	margin-left: 24px;
+
+}
+.box2{
+	float: left;
+	margin-left: 100px;
+}
+.clear{
+	clear: both;
+}
+.avatar{
+	
+
+	weight:33px;
+	height: 33px;
+	margin-right: 16px;
+	margin-left: 25px;
+	margin-top: 30px;
+
+}
+.etg{
+	color: #00FFF8;
+	font-size: 15px;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Outfit', sans-serif;
+
+}
+.day{
+	color: #8BACD9;
+	font-size: 15px;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Outfit', sans-serif;
+}
+
+.name{
+	vertical-align: center;
+	color: #8BACD9;
+	size: 15px;
+
+}
+.avatar1{
+
+	
+}
+.firstname{
+	size: 15;
+	color:#ffffff;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+   font-family: 'Outfit', sans-serif;
+   margin-left: 3px;
+}
